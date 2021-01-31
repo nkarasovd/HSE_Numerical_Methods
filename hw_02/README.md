@@ -8,6 +8,6 @@
 
 ## Куда посмотреть:
 
-#### 1. [Лекция NMM20_lec1.pdf](/slides/NMM20_lec2.pdf)
+#### 1. [Лекция NMM20_lec2.pdf](/slides/NMM20_lec2.pdf)
 
 
